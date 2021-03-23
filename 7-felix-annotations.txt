@@ -1,0 +1,629 @@
+152512, synchronisation
+152617, synchronisation
+152720, synchronisation
+153161, diveLowRight
+153481, pass
+154481, diveLowRight
+154821, pass
+155881, diveLowRight
+156193, pass
+157296, diveLowRight
+157751, pass
+158626, diveLowRight
+161034, synchronisation
+161149, synchronisation
+161259, synchronisation
+161741, diveLowLeft
+161953, pass
+162983, diveLowLeft
+163203, pass
+164329, diveLowLeft
+164525, pass
+165745, diveLowLeft
+166035, pass
+167371, diveLowLeft
+167701, pass
+170371, synchronisation
+170474, synchronisation
+170573, synchronisation
+171172, diveHighRight
+171396, pass
+173405, diveHighRight
+174053, pass
+175263, diveHighRight
+175951, pass
+177378, diveHighRight
+178024, pass
+179530, diveHighRight
+180223, pass
+182579, synchronisation
+182676, synchronisation
+182771, synchronisation
+183424, diveHighLeft
+184147, pass
+185414, diveHighLeft
+186065, pass
+187195, diveHighLeft
+187794, pass
+189022, diveHighLeft
+189754, pass
+191062, diveHighLeft
+191774, pass
+197347, synchronisation
+197443, synchronisation
+197536, synchronisation
+197862, catchHand
+198257, pass
+198854, catchHand
+199122, pass
+199654, catchHand
+200122, pass
+200655, catchHand
+200995, pass
+201588, catchHand
+201928, pass
+202527, catchHand
+202829, pass
+203394, catchHand
+203761, pass
+204312, catchHand
+204598, pass
+205140, catchHand
+205440, pass
+206052, catchHand
+207318, pass
+211178, synchronisation
+211271, synchronisation
+211356, synchronisation
+213673, pass
+214719, catchBody
+215158, pass
+216249, catchBody
+216736, pass
+217432, catchBody
+217870, pass
+218504, catchBody
+218982, pass
+219583, catchBody
+220017, pass
+220530, catchBody
+220971, pass
+222875, catchBody
+223373, pass
+224056, catchBody
+224469, pass
+225003, catchBody
+225486, pass
+226069, catchBody
+226591, pass
+227643, catchBody
+228089, pass
+228836, catchBody
+231154, synchronisation
+231270, synchronisation
+231376, synchronisation
+231968, catchGround
+232700, pass
+233556, catchGround
+234265, pass
+235053, catchGround
+235788, pass
+236621, catchGround
+237384, pass
+238215, catchGround
+238954, pass
+239733, catchGround
+240489, pass
+241315, catchGround
+242039, pass
+242783, catchGround
+243580, pass
+244386, catchGround
+245106, pass
+245975, catchGround
+246816, pass
+248249, catchGround
+249048, pass
+258739, synchronisation
+258829, synchronisation
+258915, synchronisation
+259462, diveStandLowRight
+261942, diveStandLowRight
+263966, diveStandLowRight
+269328, synchronisation
+269421, synchronisation
+269509, synchronisation
+270006, diveStandLowLeft
+272011, diveStandLowLeft
+274075, diveStandLowLeft
+289811, diveStandHighRight
+292419, diveStandHighRight
+297690, diveStandHighRight
+301330, synchronisation
+301412, synchronisation
+301496, synchronisation
+302422, diveStandHighLeft
+304423, diveStandHighLeft
+306830, diveStandHighLeft
+316726, synchronisation
+316811, synchronisation
+316892, synchronisation
+317260, jumpCatchStand
+317700, pass
+318314, jumpCatchStand
+318636, pass
+319283, jumpCatchStand
+319567, pass
+320274, jumpCatchStand
+320549, pass
+321162, jumpCatchStand
+321455, pass
+322118, jumpCatchStand
+322419, pass
+323040, jumpCatchStand
+323343, pass
+323940, jumpCatchStand
+324245, pass
+324873, jumpCatchStand
+325172, pass
+325748, jumpCatchStand
+326088, pass
+326602, jumpCatchStand
+326937, pass
+327436, jumpCatchStand
+327766, pass
+328284, jumpCatchStand
+328591, pass
+347987, synchronisation
+348086, synchronisation
+348181, synchronisation
+348825, jumpCatchRun
+349255, pass
+350952, jumpCatchRun
+351535, throwHigh
+353818, jumpCatchRun
+354279, throwHigh
+356044, jumpCatchRun
+356830, throwHigh
+358623, jumpCatchRun
+359086, throwHigh
+360695, jumpCatchRun
+365473, synchronisation
+365580, synchronisation
+365677, synchronisation
+366713, jumpCatchRun
+367246, pass
+368874, jumpCatchRun
+369523, pass
+371065, jumpCatchRun
+371686, pass
+374375, jumpCatchRun
+375019, pass
+377001, jumpCatchRun
+377582, pass
+380481, bounce
+384108, synchronisation
+384211, synchronisation
+384316, synchronisation
+384820, throwLow
+385964, catchHand
+386264, throwLow
+387598, catchHand
+387897, throwLow
+389060, catchHand
+389522, throwLow
+390552, catchHand
+390828, throwLow
+391784, ballPickUp
+392137, throwLow
+393249, ballPickUp
+393659, throwLow
+394639, ballPickUp
+394905, throwLow
+395779, ballPickUp
+396116, throwLow
+397572, ballPickUp
+400730, synchronisation
+400826, synchronisation
+400925, synchronisation
+401536, throwHigh
+402962, ballPickUp
+403333, throwHigh
+404439, catchHand
+405490, throwHigh
+406993, ballPickUp
+407375, throwHigh
+409144, ballPickUp
+409648, throwHigh
+410622, jumpCatchStand
+411018, throwHigh
+413000, ballPickUp
+413216, throwHigh
+414548, jumpCatchStand
+415118, throwHigh
+416180, catchHand
+416548, throwHigh
+418099, bounce
+418811, throwHigh
+420458, catchHand
+431577, shortDiveRight
+432338, pass
+434086, shortDiveRight
+434763, pass
+435653, synchronisation
+435765, synchronisation
+435871, synchronisation
+436294, shortDiveRight
+437311, shortDiveRight
+438289, shortDiveRight
+439502, shortDiveRight
+440627, shortDiveRight
+444035, synchronisation
+444134, synchronisation
+444231, synchronisation
+444841, shortDiveLeft
+445683, shortDiveLeft
+446490, shortDiveLeft
+447315, shortDiveLeft
+448112, shortDiveLeft
+452209, synchronisation
+452306, synchronisation
+452401, synchronisation
+462893, synchronisation
+462985, synchronisation
+463080, synchronisation
+463368, shortSprint
+464710, shortSprint
+466004, shortSprint
+467523, shortSprint
+469064, shortSprint
+475272, synchronisation
+475370, synchronisation
+475468, synchronisation
+475684, longSprint
+478044, longSprint
+480603, longSprint
+483114, longSprint
+485630, longSprint
+499307, synchronisation
+499405, synchronisation
+499504, synchronisation
+500152, kickBody
+501486, ballPickUp
+502143, bounce
+502546, kickBody
+504039, ballPickUp
+504392, bounce
+504816, bounce
+505111, kickBody
+507193, bounce
+507350, bounce
+507705, kickBody
+510082, ballPickUp
+510860, bounce
+511220, kickBody
+513276, ballPickUp
+513844, bounce
+514222, bounce
+514694, kickBody
+516629, ballPickUp
+517227, bounce
+517714, kickBody
+519733, ballPickUp
+520087, kickBody
+523867, bounce
+524222, bounce
+524713, bounce
+526129, kickBody
+528481, ballPickUp
+529527, bounce
+529820, bounce
+531006, kickBody
+554991, kickGround
+558267, kickGround
+562682, kickGround
+566159, kickGround
+570739, kickGround
+573496, kickGround
+576044, pass
+577408, kickGround
+579282, pass
+581141, kickGround
+582456, catchBody
+584279, kickGround
+586991, bounce
+589893, kickGround
+598219, synchronisation
+598309, synchronisation
+598399, synchronisation
+604393, synchronisation
+604524, synchronisation
+604660, synchronisation
+605334, synchronisation
+605456, synchronisation
+605579, synchronisation
+613138, synchronisation
+613250, synchronisation
+613378, synchronisation
+153148 - 153214, diveLowRight
+153463 - 153512, pass
+154464 - 154538, diveLowRight
+154803 - 154854, pass
+155874 - 155941, diveLowRight
+156186 - 156221, pass
+157293 - 157357, diveLowRight
+157741 - 157783, pass
+158617 - 158687, diveLowRight
+161727 - 161775, diveLowLeft
+161937 - 161982, pass
+162977 - 163055, diveLowLeft
+163159 - 163233, pass
+164308 - 164401, diveLowLeft
+164487 - 164552, pass
+165728 - 165815, diveLowLeft
+165989 - 166076, pass
+167362 - 167425, diveLowLeft
+167664 - 167746, pass
+171077 - 171270, diveHighRight
+171357 - 171429, pass
+173284 - 173487, diveHighRight
+174042 - 174105, pass
+175121 - 175286, diveHighRight
+175921 - 176005, pass
+177233 - 177408, diveHighRight
+178014 - 178068, pass
+179408 - 179572, diveHighRight
+180188 - 180276, pass
+183315 - 183465, diveHighLeft
+184123 - 184207, pass
+185309 - 185444, diveHighLeft
+186039 - 186112, pass
+187094 - 187243, diveHighLeft
+187750 - 187853, pass
+188899 - 189064, diveHighLeft
+189675 - 189795, pass
+190953 - 191119, diveHighLeft
+191746 - 191820, pass
+197836 - 197900, catchHand
+198234 - 198313, pass
+198832 - 198897, catchHand
+199099 - 199210, pass
+199646 - 199696, catchHand
+200097 - 200202, pass
+200647 - 200689, catchHand
+200974 - 201086, pass
+201571 - 201631, catchHand
+201907 - 201995, pass
+202514 - 202560, catchHand
+202813 - 202878, pass
+203381 - 203424, catchHand
+203733 - 203830, pass
+204300 - 204351, catchHand
+204557 - 204662, pass
+205123 - 205194, catchHand
+205405 - 205501, pass
+206041 - 206103, catchHand
+207272 - 207370, pass
+213639 - 213734, pass
+214710 - 214790, catchBody
+215136 - 215225, pass
+216226 - 216347, catchBody
+216709 - 216813, pass
+217424 - 217481, catchBody
+217848 - 217930, pass
+218496 - 218556, catchBody
+218960 - 219029, pass
+219574 - 219635, catchBody
+219984 - 220064, pass
+220523 - 220580, catchBody
+220940 - 221012, pass
+222867 - 222925, catchBody
+223331 - 223442, pass
+224038 - 224097, catchBody
+224436 - 224549, pass
+224993 - 225078, catchBody
+225455 - 225549, pass
+226059 - 226125, catchBody
+226529 - 226654, pass
+227591 - 227694, catchBody
+228025 - 228169, pass
+228790 - 228910, catchBody
+231957 - 232137, catchGround
+232663 - 232771, pass
+233544 - 233732, catchGround
+234217 - 234350, pass
+235042 - 235258, catchGround
+235743 - 235867, pass
+236614 - 236796, catchGround
+237335 - 237451, pass
+238208 - 238427, catchGround
+238914 - 239030, pass
+239725 - 239935, catchGround
+240462 - 240551, pass
+241308 - 241479, catchGround
+242011 - 242092, pass
+242773 - 242957, catchGround
+243527 - 243656, pass
+244379 - 244551, catchGround
+245056 - 245206, pass
+245969 - 246165, catchGround
+246772 - 246869, pass
+248206 - 248430, catchGround
+249015 - 249110, pass
+259451 - 259666, diveStandLowRight
+261911 - 262245, diveStandLowRight
+263949 - 264241, diveStandLowRight
+269983 - 270320, diveStandLowLeft
+271989 - 272320, diveStandLowLeft
+274057 - 274325, diveStandLowLeft
+289682 - 290085, diveStandHighRight
+292318 - 292590, diveStandHighRight
+297562 - 297756, diveStandHighRight
+302389 - 302685, diveStandHighLeft
+304296 - 304507, diveStandHighLeft
+306697 - 306923, diveStandHighLeft
+317236 - 317427, jumpCatchStand
+317660 - 317809, pass
+318277 - 318501, jumpCatchStand
+318589 - 318712, pass
+319240 - 319363, jumpCatchStand
+319505 - 319672, pass
+320235 - 320359, jumpCatchStand
+320508 - 320652, pass
+321123 - 321245, jumpCatchStand
+321406 - 321561, pass
+322082 - 322235, jumpCatchStand
+322383 - 322540, pass
+322923 - 323157, jumpCatchStand
+323298 - 323444, pass
+323900 - 324036, jumpCatchStand
+324201 - 324364, pass
+324750 - 324979, jumpCatchStand
+325124 - 325302, pass
+325644 - 325845, jumpCatchStand
+326023 - 326186, pass
+326492 - 326686, jumpCatchStand
+326880 - 327013, pass
+327381 - 327522, jumpCatchStand
+327711 - 327861, pass
+328176 - 328376, jumpCatchStand
+328553 - 328699, pass
+348802 - 348890, jumpCatchRun
+349218 - 349339, pass
+350792 - 351027, jumpCatchRun
+351428 - 351654, throwHigh
+353472 - 353912, jumpCatchRun
+354162 - 354392, throwHigh
+355835 - 356200, jumpCatchRun
+356727 - 356934, throwHigh
+358365 - 358687, jumpCatchRun
+358975 - 359192, throwHigh
+360378 - 360792, jumpCatchRun
+366397 - 366948, jumpCatchRun
+367095 - 367307, pass
+368587 - 368960, jumpCatchRun
+369486 - 369622, pass
+370794 - 371192, jumpCatchRun
+371643 - 371760, pass
+374162 - 374562, jumpCatchRun
+374975 - 375089, pass
+376681 - 377131, jumpCatchRun
+377536 - 377673, pass
+380456 - 380541, bounce
+384769 - 384980, throwLow
+385933 - 386046, catchHand
+386197 - 386423, throwLow
+387574 - 387688, catchHand
+387828 - 388031, throwLow
+389043 - 389175, catchHand
+389462 - 389659, throwLow
+390530 - 390638, catchHand
+390778 - 390972, throwLow
+391768 - 391904, ballPickUp
+392070 - 392289, throwLow
+393236 - 393396, ballPickUp
+393609 - 393764, throwLow
+394618 - 394722, ballPickUp
+394851 - 395052, throwLow
+395766 - 395892, ballPickUp
+396071 - 396253, throwLow
+397559 - 397658, ballPickUp
+401460 - 401672, throwHigh
+402945 - 403102, ballPickUp
+403261 - 403477, throwHigh
+404422 - 404533, catchHand
+405420 - 405638, throwHigh
+406903 - 407035, ballPickUp
+407314 - 407539, throwHigh
+409062 - 409243, ballPickUp
+409579 - 409841, throwHigh
+410583 - 410722, jumpCatchStand
+410956 - 411142, throwHigh
+412928 - 413047, ballPickUp
+413160 - 413353, throwHigh
+414521 - 414649, jumpCatchStand
+415042 - 415257, throwHigh
+416150 - 416289, catchHand
+416475 - 416693, throwHigh
+418088 - 418140, bounce
+418687 - 418879, throwHigh
+420447 - 420498, catchHand
+431521 - 431631, shortDiveRight
+432313 - 432472, pass
+434045 - 434140, shortDiveRight
+434735 - 434854, pass
+436236 - 436349, shortDiveRight
+437263 - 437347, shortDiveRight
+438215 - 438329, shortDiveRight
+439447 - 439539, shortDiveRight
+440561 - 440657, shortDiveRight
+444769 - 444864, shortDiveLeft
+445616 - 445700, shortDiveLeft
+446437 - 446510, shortDiveLeft
+447242 - 447334, shortDiveLeft
+448042 - 448131, shortDiveLeft
+463231 - 463647, shortSprint
+464502 - 465007, shortSprint
+465881 - 466325, shortSprint
+467353 - 467826, shortSprint
+468818 - 469347, shortSprint
+475537 - 476332, longSprint
+476523 - 477588, jogging
+477870 - 478752, longSprint
+479095 - 479735, jogging
+480441 - 481142, longSprint
+481539 - 482179, jogging
+482531 - 483494, longSprint
+483894 - 484531, jogging
+485211 - 486151, longSprint
+499970 - 500395, kickBody
+501433 - 501605, ballPickUp
+502123 - 502205, bounce
+502457 - 502782, kickBody
+504020 - 504114, ballPickUp
+504363 - 504457, bounce
+504739 - 504851, bounce
+505005 - 505323, kickBody
+507166 - 507299, bounce
+507322 - 507420, bounce
+507623 - 507988, kickBody
+509906 - 510131, ballPickUp
+510828 - 510914, bounce
+511142 - 511393, kickBody
+513223 - 513377, ballPickUp
+513824 - 513932, bounce
+514138 - 514253, bounce
+514621 - 514875, kickBody
+516538 - 516681, ballPickUp
+517162 - 517246, bounce
+517643 - 517796, kickBody
+519699 - 519825, ballPickUp
+520013 - 520199, kickBody
+521182 - 522281, jogging
+523812 - 523900, bounce
+524152 - 524314, bounce
+524666 - 524776, bounce
+525993 - 526316, kickBody
+527176 - 528287, jogging
+528464 - 528502, ballPickUp
+529446 - 529587, bounce
+529789 - 529921, bounce
+530864 - 531263, kickBody
+554701 - 555160, kickGround
+557944 - 558434, kickGround
+562368 - 562866, kickGround
+565863 - 566309, kickGround
+570414 - 570877, kickGround
+573192 - 573691, kickGround
+575985 - 576144, pass
+577038 - 577593, kickGround
+579222 - 579380, pass
+580942 - 581293, kickGround
+582399 - 582631, catchBody
+584105 - 584509, kickGround
+586950 - 587038, bounce
+589553 - 590007, kickGround
+598574 - 600997, jogging
+601088 - 603956, jogging
+605803 - 608443, joggingJumping
+608588 - 611841, joggingJumping

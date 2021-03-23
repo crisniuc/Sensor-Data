@@ -1,0 +1,6 @@
+Based on the .mat raw data.
+
+First, on each row, we have the peak index (row number in the .mat file) of each annotated event followed by the event name/class.
+Then, on each row, we have the indexes of the first and last sample of each annotated event (except the synchronization/clapping events)
+ followed by the event name/class. 
+  
